@@ -1,6 +1,6 @@
-<h3>Farmate <em>FC</em> 🐂</h3>
+<li>Lickwarsenal <em>Club</em> 🐂</li>
 
 <li>
-    <img src="https://avatars.githubusercontent.com/u/76512208?v=4" alt="">
-    <p>Ryota</p>
-</li>
+    <img src="https://avatars.githubusercontent.com/u/56187167?v=4" alt="">
+    <p>Dongwook</p>
+  </li>
